@@ -1,0 +1,3 @@
+label: 'Math'
+position: 1 # float position is supported
+collapsed: false # keep the category open by default
