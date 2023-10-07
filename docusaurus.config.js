@@ -4,7 +4,7 @@ const katex = require('rehype-katex');
 module.exports = {
   title: 'Easy Know Hard Insist',
   tagline: 'Dinosaurs are cool',
-  url: 'https://lsl1989.github.io/ekhi/',
+  url: 'https://lsl1989.github.io/',
   baseUrl: '/ekhi/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -29,12 +29,12 @@ module.exports = {
       },
       items: [
         {
-          to: '/docs/program/program',
+          to: '/docs/program',
           label: '编程',
           position: 'left'
         },
         {
-          to: '/docs/math/math',
+          to: '/docs/math',
           label: '数学',
           position: 'left'
         },
