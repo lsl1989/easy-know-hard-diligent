@@ -169,8 +169,7 @@ $$
 4 & 5 & 6 \\
 7 & 8 & 9 \\
 \end{matrix}
-\right|
-=
+\right| =
 \left|
 \begin{matrix}
 1 & 2 & 3 \\

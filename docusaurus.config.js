@@ -11,6 +11,7 @@ module.exports = {
   favicon: 'img/favicon.ico',
   organizationName: 'lsl1989', // Usually your GitHub org/user name.
   projectName: 'ekhi', // Usually your repo name.
+  trailingSlash: false,
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.12.0/dist/katex.min.css',
